@@ -95,7 +95,6 @@
 </body>
 </html>
 
-<style>
 </head>
 <body>
 	<h1>Non-Fictional Book Order List</h1>
