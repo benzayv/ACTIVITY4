@@ -35,7 +35,7 @@
 			background-color: #ebebeb;
 		}
 		
-	</style>
+</style>
 </head>
 <body>
 	<h1>Fictional Book Order List</h1>
@@ -95,7 +95,7 @@
 </body>
 </html>
 
-</style>
+<style>
 </head>
 <body>
 	<h1>Non-Fictional Book Order List</h1>
