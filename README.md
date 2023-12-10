@@ -1,5 +1,5 @@
 # ACTIVITY4
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Fictional and Non-Fictional Book Order List</title>
@@ -91,7 +91,7 @@
 <li>Slaughterhouse-Five by Kurt Vonnegut</li>
 
 
-	</ol>
+</ol>
 </body>
 </html>
 
@@ -101,8 +101,8 @@
 	<h1>Non-Fictional Book Order List</h1>
 	<hr>
 	<ol>
-	    
-	    <li>Sapiens: A Brief History of Humankind by Yuval Noah Harari</li>
+		
+<li>Sapiens: A Brief History of Humankind by Yuval Noah Harari</li>
 
 <li>Educated by Tara Westover</li>
 
